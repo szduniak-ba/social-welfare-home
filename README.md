@@ -1,9 +1,9 @@
 # Overview
 These procedures are using in Social Welfare Home to calculate monthly resident's payment.
 
-##_**Step by step**_
+## _**Step by step**_
 
-###_Procedure 1.1.
+### _Procedure 1.1.
 
 Resident's monthly incomes are fundamental knowledge to calculate payment. Due to we need official documents about this (for example from Pension Facility). 
 After we get them we can calculate monthly net income and estimate a new monthly payment. Interview resident and fill in the community interview are next steps done by Social Worker.
@@ -13,7 +13,7 @@ After attache necessery documents we can hand on them to social welfare centre.
 ![BPMN Diagram](BPMN-calculate-new-payment.jpg)
 
 
-###_Procedure 1.2.
+### _Procedure 1.2.
 
 
 
